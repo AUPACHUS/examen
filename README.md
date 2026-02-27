@@ -87,7 +87,7 @@ Contiene todas las reglas de estilo utilizadas en el proyecto. Se organizan de l
    - `.form input[type="email"]`: campos de entrada con estilos y focus.
    - `.form button`: botón primario con hover.
    - `.stats`: texto de estadísticas.
-6. **Media queries**: adaptaciones para tabletas (768-1023px) y escritorio (≥1024px), ajustando tamaños, padding y disposición.
+6. **Media queries**: adaptaciones para tabletas (768-1023px) y escritorio (≥1024px), ajustando tamaños, padding y disposición. En la versión de escritorio la hoja de estilos también cambia el fondo principal, cargando una ilustración SVG (`img/abstract-illustration.svg`) junto con la imagen de fondo JPG para enriquecer el diseño.
 
 Cada regla está comentada en el archivo, proporcionando orientación sobre su propósito y contexto.
 
